@@ -30,6 +30,7 @@ public class Interface1 {
         Formula.positive(-4);        // 0.0
 
 //        Formula formula2 = (a) -> sqrt( a * 100);
+// 测试
     }
 
 }
